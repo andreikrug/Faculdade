@@ -1,0 +1,2 @@
+Banco de dados não relacional -> Expansão horizontal: Quando precisamos de maior capacidade, podemos expandir a quantidade de servidores, pois o mesmo não é centralizado como o vertical, que para poder expandir
+necessitaria a expansão de atributos fisícos de servidor local, como aumento de disco, ou rede, o que é mais complicado para bancos em funcionamento constante. 
